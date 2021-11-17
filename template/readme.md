@@ -1,17 +1,17 @@
 # Folder structure
-*Minimum template
-+analyses
-+data
-+experiments
-+notes
-+writing / report / text
-*Extended template
-+code
-+posters
-+presentations
-+Other necessary / important content
-*Highly recommended elements
-+‘readme.md’ files to guide readers through your project.
+* Minimum template
++ analyses
++ data
++ experiments
++ notes
++ writing / report / text
+* Extended template
++ code
++ posters
++ presentations
++ Other necessary / important content
+* Highly recommended elements
++ ‘readme.md’ files to guide readers through your project.
 
 # File naming conventions
 ## Easy readability for machines
