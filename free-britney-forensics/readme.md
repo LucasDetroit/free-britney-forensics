@@ -1,1 +1,0 @@
-This is a project research about the trials for the cease of Britney Spears conservatorship and how the interactions between both the accusation and the defense in the trials, on the one side, and four social media platforms (Facebook, Instragram, Tumblr and Twitter), on the other, affected the speeches of each of the implicated actors.
